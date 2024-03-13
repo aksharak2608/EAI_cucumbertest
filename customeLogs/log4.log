@@ -1,0 +1,659 @@
+23:44:13.437 [main] INFO  - ___________________ Test starting__________________________
+23:44:13.444 [main] INFO  - ___________________ Before Hook__________________________
+23:44:20.484 [main] INFO  - -------------------verifying the page title--------------------
+23:44:20.555 [main] INFO  - -------------------Enter username--------------------
+23:44:20.693 [main] INFO  - Able to find the visibility of elemnt
+23:44:24.108 [main] INFO  - -------------------Enter passcode--------------------
+23:44:24.156 [main] INFO  - Able to find the visibility of elemnt
+23:44:27.415 [main] INFO  - -------------------click login--------------------
+23:44:31.584 [main] INFO  - -------------------verifying the page title--------------------
+23:44:31.611 [main] INFO  - ___________________ Test starting__________________________
+23:44:31.611 [main] INFO  - ___________________ Before Hook__________________________
+23:44:34.272 [main] INFO  - -------------------verifying the page title--------------------
+23:44:34.310 [main] INFO  - -------------------Enter username--------------------
+23:44:34.413 [main] INFO  - Able to find the visibility of elemnt
+23:44:38.086 [main] INFO  - -------------------Enter passcode--------------------
+23:44:38.141 [main] INFO  - Able to find the visibility of elemnt
+23:44:41.362 [main] INFO  - -------------------click login--------------------
+23:44:45.791 [main] INFO  - -------------------verifying the page title--------------------
+23:44:45.813 [main] INFO  - -------------------user clicks on menu--------------------
+23:44:45.835 [main] INFO  - Able to find the presence of elemnt
+23:44:46.949 [main] INFO  - -------------------user click on page--------------------
+23:44:46.967 [main] INFO  - Able to find the presence of elemnt
+23:44:48.747 [main] INFO  - -------------------verifying the page title--------------------
+23:44:48.766 [main] INFO  - ___________________ Test starting__________________________
+23:44:48.766 [main] INFO  - ___________________ Before Hook__________________________
+23:44:51.253 [main] INFO  - -------------------verifying the page title--------------------
+23:44:51.345 [main] INFO  - -------------------Enter username--------------------
+23:44:51.409 [main] INFO  - Able to find the visibility of elemnt
+23:44:54.882 [main] INFO  - -------------------Enter passcode--------------------
+23:44:54.921 [main] INFO  - Able to find the visibility of elemnt
+23:44:58.122 [main] INFO  - -------------------click login--------------------
+23:45:02.343 [main] INFO  - -------------------verifying the page title--------------------
+23:45:02.352 [main] INFO  - -------------------user clicks on menu--------------------
+23:45:02.375 [main] INFO  - Able to find the presence of elemnt
+23:45:03.479 [main] INFO  - -------------------user click on page--------------------
+23:45:03.501 [main] INFO  - Able to find the presence of elemnt
+23:45:05.300 [main] INFO  - -------------------verifying the page title--------------------
+23:45:05.313 [main] INFO  - -------------------insert email------------------
+06:35:16.360 [main] INFO  - ___________________ Test starting__________________________
+06:35:16.373 [main] INFO  - ___________________ Before Hook__________________________
+06:35:21.999 [main] INFO  - -------------------verifying the page title--------------------
+06:35:22.146 [main] INFO  - -------------------Enter username--------------------
+06:35:22.246 [main] INFO  - Able to find the visibility of elemnt
+06:35:25.612 [main] INFO  - -------------------Enter passcode--------------------
+06:35:25.657 [main] INFO  - Able to find the visibility of elemnt
+06:35:28.869 [main] INFO  - -------------------click login--------------------
+06:35:33.301 [main] INFO  - -------------------verifying the page title--------------------
+06:35:33.342 [main] INFO  - ___________________ Test starting__________________________
+06:35:33.343 [main] INFO  - ___________________ Before Hook__________________________
+06:35:36.202 [main] INFO  - -------------------verifying the page title--------------------
+06:35:36.365 [main] INFO  - -------------------Enter username--------------------
+06:35:36.450 [main] INFO  - Able to find the visibility of elemnt
+06:35:39.969 [main] INFO  - -------------------Enter passcode--------------------
+06:35:40.013 [main] INFO  - Able to find the visibility of elemnt
+06:35:43.239 [main] INFO  - -------------------click login--------------------
+06:35:47.569 [main] INFO  - -------------------verifying the page title--------------------
+06:35:47.578 [main] INFO  - -------------------user clicks on menu--------------------
+06:35:47.605 [main] INFO  - Able to find the presence of elemnt
+06:35:48.690 [main] INFO  - -------------------user click on page--------------------
+06:35:48.760 [main] INFO  - Able to find the presence of elemnt
+06:35:50.728 [main] INFO  - -------------------verifying the page title--------------------
+06:35:50.737 [main] INFO  - -------------------insert email------------------
+06:47:39.332 [main] INFO  - ___________________ Test starting__________________________
+06:47:39.341 [main] INFO  - ___________________ Before Hook__________________________
+06:47:43.949 [main] INFO  - -------------------verifying the page title--------------------
+06:47:44.011 [main] INFO  - -------------------Enter username--------------------
+06:47:44.115 [main] INFO  - Able to find the visibility of elemnt
+06:47:47.530 [main] INFO  - -------------------Enter passcode--------------------
+06:47:47.582 [main] INFO  - Able to find the visibility of elemnt
+06:47:50.816 [main] INFO  - -------------------click login--------------------
+06:47:55.078 [main] INFO  - -------------------verifying the page title--------------------
+06:47:55.118 [main] INFO  - ___________________ Test starting__________________________
+06:47:55.119 [main] INFO  - ___________________ Before Hook__________________________
+06:47:58.005 [main] INFO  - -------------------verifying the page title--------------------
+06:47:58.042 [main] INFO  - -------------------Enter username--------------------
+06:47:58.176 [main] INFO  - Able to find the visibility of elemnt
+06:48:01.525 [main] INFO  - -------------------Enter passcode--------------------
+06:48:01.563 [main] INFO  - Able to find the visibility of elemnt
+06:48:04.757 [main] INFO  - -------------------click login--------------------
+06:48:09.215 [main] INFO  - -------------------verifying the page title--------------------
+06:56:58.337 [main] INFO  - ___________________ Test starting__________________________
+06:56:58.344 [main] INFO  - ___________________ Before Hook__________________________
+06:57:02.427 [main] INFO  - -------------------verifying the page title--------------------
+06:57:02.746 [main] INFO  - -------------------Enter username--------------------
+06:57:02.813 [main] INFO  - Able to find the visibility of elemnt
+06:57:06.231 [main] INFO  - -------------------Enter passcode--------------------
+06:57:06.271 [main] INFO  - Able to find the visibility of elemnt
+06:57:09.472 [main] INFO  - -------------------click login--------------------
+06:57:14.004 [main] INFO  - -------------------verifying the page title--------------------
+06:57:14.042 [main] INFO  - ___________________ Test starting__________________________
+06:57:14.042 [main] INFO  - ___________________ Before Hook__________________________
+06:57:16.869 [main] INFO  - -------------------verifying the page title--------------------
+06:57:16.966 [main] INFO  - -------------------Enter username--------------------
+06:57:17.045 [main] INFO  - Able to find the visibility of elemnt
+06:57:20.371 [main] INFO  - -------------------Enter passcode--------------------
+06:57:20.410 [main] INFO  - Able to find the visibility of elemnt
+06:57:23.612 [main] INFO  - -------------------click login--------------------
+06:57:27.917 [main] INFO  - -------------------verifying the page title--------------------
+06:57:27.929 [main] INFO  - -------------------user clicks on menu--------------------
+06:57:27.966 [main] INFO  - Able to find the presence of elemnt
+06:57:29.089 [main] INFO  - -------------------user click on page--------------------
+06:57:29.105 [main] INFO  - Able to find the presence of elemnt
+06:57:30.848 [main] INFO  - -------------------verifying the page title--------------------
+06:57:30.856 [main] INFO  - -------------------insert email------------------
+07:01:09.983 [main] INFO  - ___________________ Test starting__________________________
+07:01:09.990 [main] INFO  - ___________________ Before Hook__________________________
+07:01:14.554 [main] INFO  - -------------------verifying the page title--------------------
+07:01:14.640 [main] INFO  - -------------------Enter username--------------------
+07:01:14.810 [main] INFO  - Able to find the visibility of elemnt
+07:01:18.172 [main] INFO  - -------------------Enter passcode--------------------
+07:01:18.213 [main] INFO  - Able to find the visibility of elemnt
+07:01:21.447 [main] INFO  - -------------------click login--------------------
+07:01:26.014 [main] INFO  - -------------------verifying the page title--------------------
+07:01:26.059 [main] INFO  - ___________________ Test starting__________________________
+07:01:26.059 [main] INFO  - ___________________ Before Hook__________________________
+07:01:28.685 [main] INFO  - -------------------verifying the page title--------------------
+07:01:28.721 [main] INFO  - -------------------Enter username--------------------
+07:01:28.841 [main] INFO  - Able to find the visibility of elemnt
+07:01:32.296 [main] INFO  - -------------------Enter passcode--------------------
+07:01:32.354 [main] INFO  - Able to find the visibility of elemnt
+07:01:35.562 [main] INFO  - -------------------click login--------------------
+07:01:40.068 [main] INFO  - -------------------verifying the page title--------------------
+07:01:40.079 [main] INFO  - -------------------user clicks on menu--------------------
+07:01:40.103 [main] INFO  - Able to find the presence of elemnt
+07:01:41.209 [main] INFO  - -------------------user click on page--------------------
+07:01:41.235 [main] INFO  - Able to find the presence of elemnt
+07:01:42.983 [main] INFO  - -------------------verifying the page title--------------------
+07:01:42.992 [main] INFO  - -------------------insert email------------------
+07:07:37.674 [main] INFO  - ___________________ Test starting__________________________
+07:07:37.682 [main] INFO  - ___________________ Before Hook__________________________
+07:07:42.401 [main] INFO  - -------------------verifying the page title--------------------
+07:07:42.620 [main] INFO  - -------------------Enter username--------------------
+07:07:42.803 [main] INFO  - Able to find the visibility of elemnt
+07:07:46.342 [main] INFO  - -------------------Enter passcode--------------------
+07:07:46.387 [main] INFO  - Able to find the visibility of elemnt
+07:07:49.590 [main] INFO  - -------------------click login--------------------
+07:07:54.215 [main] INFO  - -------------------verifying the page title--------------------
+07:07:54.283 [main] INFO  - ___________________ Test starting__________________________
+07:07:54.284 [main] INFO  - ___________________ Before Hook__________________________
+07:07:57.057 [main] INFO  - -------------------verifying the page title--------------------
+07:07:57.078 [main] INFO  - -------------------Enter username--------------------
+07:07:57.196 [main] INFO  - Able to find the visibility of elemnt
+07:08:00.748 [main] INFO  - -------------------Enter passcode--------------------
+07:08:00.794 [main] INFO  - Able to find the visibility of elemnt
+07:08:04.046 [main] INFO  - -------------------click login--------------------
+07:08:08.585 [main] INFO  - -------------------verifying the page title--------------------
+07:08:08.620 [main] INFO  - -------------------user clicks on menu--------------------
+07:08:08.646 [main] INFO  - Able to find the presence of elemnt
+07:08:09.750 [main] INFO  - -------------------user click on page--------------------
+07:08:09.774 [main] INFO  - Able to find the presence of elemnt
+07:08:11.742 [main] INFO  - -------------------verifying the page title--------------------
+07:08:11.753 [main] INFO  - -------------------insert email------------------
+07:09:18.637 [main] INFO  - ___________________ Test starting__________________________
+07:09:18.643 [main] INFO  - ___________________ Before Hook__________________________
+07:09:23.218 [main] INFO  - -------------------verifying the page title--------------------
+07:09:23.293 [main] INFO  - -------------------Enter username--------------------
+07:09:23.495 [main] INFO  - Able to find the visibility of elemnt
+07:09:26.893 [main] INFO  - -------------------Enter passcode--------------------
+07:09:26.955 [main] INFO  - Able to find the visibility of elemnt
+07:09:30.313 [main] INFO  - -------------------click login--------------------
+07:09:34.875 [main] INFO  - -------------------verifying the page title--------------------
+07:09:34.936 [main] INFO  - ___________________ Test starting__________________________
+07:09:34.937 [main] INFO  - ___________________ Before Hook__________________________
+07:09:37.841 [main] INFO  - -------------------verifying the page title--------------------
+07:09:37.883 [main] INFO  - -------------------Enter username--------------------
+07:09:38.003 [main] INFO  - Able to find the visibility of elemnt
+07:09:41.415 [main] INFO  - -------------------Enter passcode--------------------
+07:09:41.470 [main] INFO  - Able to find the visibility of elemnt
+07:09:44.693 [main] INFO  - -------------------click login--------------------
+07:09:48.855 [main] INFO  - -------------------verifying the page title--------------------
+07:09:48.868 [main] INFO  - -------------------user clicks on menu--------------------
+07:09:48.913 [main] INFO  - Able to find the presence of elemnt
+07:09:50.026 [main] INFO  - -------------------user click on page--------------------
+07:09:50.054 [main] INFO  - Able to find the presence of elemnt
+07:09:51.829 [main] INFO  - -------------------verifying the page title--------------------
+07:09:51.839 [main] INFO  - -------------------insert email------------------
+07:13:46.465 [main] INFO  - ___________________ Test starting__________________________
+07:13:46.472 [main] INFO  - ___________________ Before Hook__________________________
+07:13:50.923 [main] INFO  - -------------------verifying the page title--------------------
+07:13:50.979 [main] INFO  - -------------------Enter username--------------------
+07:13:51.205 [main] INFO  - Able to find the visibility of elemnt
+07:13:54.587 [main] INFO  - -------------------Enter passcode--------------------
+07:13:54.636 [main] INFO  - Able to find the visibility of elemnt
+07:13:57.818 [main] INFO  - -------------------click login--------------------
+07:14:02.330 [main] INFO  - -------------------verifying the page title--------------------
+07:14:02.359 [main] INFO  - ___________________ Test starting__________________________
+07:14:02.359 [main] INFO  - ___________________ Before Hook__________________________
+07:14:04.886 [main] INFO  - -------------------verifying the page title--------------------
+07:14:05.037 [main] INFO  - -------------------Enter username--------------------
+07:14:05.105 [main] INFO  - Able to find the visibility of elemnt
+07:14:08.657 [main] INFO  - -------------------Enter passcode--------------------
+07:14:08.696 [main] INFO  - Able to find the visibility of elemnt
+07:14:11.905 [main] INFO  - -------------------click login--------------------
+07:14:16.132 [main] INFO  - -------------------verifying the page title--------------------
+07:14:16.144 [main] INFO  - -------------------user clicks on menu--------------------
+07:14:16.172 [main] INFO  - Able to find the presence of elemnt
+07:14:17.279 [main] INFO  - -------------------user click on page--------------------
+07:14:17.299 [main] INFO  - Able to find the presence of elemnt
+07:14:19.163 [main] INFO  - -------------------verifying the page title--------------------
+07:14:19.173 [main] INFO  - -------------------insert email------------------
+07:16:32.146 [main] INFO  - ___________________ Test starting__________________________
+07:16:32.155 [main] INFO  - ___________________ Before Hook__________________________
+07:16:36.395 [main] INFO  - -------------------verifying the page title--------------------
+07:16:36.458 [main] INFO  - -------------------Enter username--------------------
+07:16:36.571 [main] INFO  - Able to find the visibility of elemnt
+07:16:39.971 [main] INFO  - -------------------Enter passcode--------------------
+07:16:40.024 [main] INFO  - Able to find the visibility of elemnt
+07:16:43.258 [main] INFO  - -------------------click login--------------------
+07:16:47.321 [main] INFO  - -------------------verifying the page title--------------------
+07:16:47.356 [main] INFO  - ___________________ Test starting__________________________
+07:16:47.357 [main] INFO  - ___________________ Before Hook__________________________
+07:16:49.958 [main] INFO  - -------------------verifying the page title--------------------
+07:16:49.979 [main] INFO  - -------------------Enter username--------------------
+07:16:50.030 [main] INFO  - Able to find the visibility of elemnt
+07:16:53.690 [main] INFO  - -------------------Enter passcode--------------------
+07:16:53.731 [main] INFO  - Able to find the visibility of elemnt
+07:16:56.962 [main] INFO  - -------------------click login--------------------
+07:17:01.164 [main] INFO  - -------------------verifying the page title--------------------
+07:17:01.174 [main] INFO  - -------------------user clicks on menu--------------------
+07:17:01.196 [main] INFO  - Able to find the presence of elemnt
+07:17:02.298 [main] INFO  - -------------------user click on page--------------------
+07:17:02.317 [main] INFO  - Able to find the presence of elemnt
+07:17:04.074 [main] INFO  - -------------------verifying the page title--------------------
+07:17:04.086 [main] INFO  - -------------------insert email------------------
+07:18:40.005 [main] INFO  - ___________________ Test starting__________________________
+07:18:40.012 [main] INFO  - ___________________ Before Hook__________________________
+07:18:44.672 [main] INFO  - -------------------verifying the page title--------------------
+07:18:44.724 [main] INFO  - -------------------Enter username--------------------
+07:18:44.819 [main] INFO  - Able to find the visibility of elemnt
+07:18:48.296 [main] INFO  - -------------------Enter passcode--------------------
+07:18:48.343 [main] INFO  - Able to find the visibility of elemnt
+07:18:51.577 [main] INFO  - -------------------click login--------------------
+07:18:55.852 [main] INFO  - -------------------verifying the page title--------------------
+07:18:55.886 [main] INFO  - ___________________ Test starting__________________________
+07:18:55.886 [main] INFO  - ___________________ Before Hook__________________________
+07:18:58.870 [main] INFO  - -------------------verifying the page title--------------------
+07:18:58.911 [main] INFO  - -------------------Enter username--------------------
+07:18:59.063 [main] INFO  - Able to find the visibility of elemnt
+07:19:02.399 [main] INFO  - -------------------Enter passcode--------------------
+07:19:02.464 [main] INFO  - Able to find the visibility of elemnt
+07:19:05.775 [main] INFO  - -------------------click login--------------------
+07:19:10.024 [main] INFO  - -------------------verifying the page title--------------------
+07:19:10.036 [main] INFO  - -------------------user clicks on menu--------------------
+07:19:10.060 [main] INFO  - Able to find the presence of elemnt
+07:19:11.175 [main] INFO  - -------------------user click on page--------------------
+07:19:11.204 [main] INFO  - Able to find the presence of elemnt
+07:19:12.932 [main] INFO  - -------------------verifying the page title--------------------
+07:19:12.945 [main] INFO  - -------------------insert email------------------
+07:20:56.402 [main] INFO  - ___________________ Test starting__________________________
+07:20:56.409 [main] INFO  - ___________________ Before Hook__________________________
+07:21:01.006 [main] INFO  - -------------------verifying the page title--------------------
+07:21:01.327 [main] INFO  - -------------------Enter username--------------------
+07:21:01.650 [main] INFO  - Able to find the visibility of elemnt
+07:21:04.970 [main] INFO  - -------------------Enter passcode--------------------
+07:21:05.020 [main] INFO  - Able to find the visibility of elemnt
+07:21:08.313 [main] INFO  - -------------------click login--------------------
+07:21:13.099 [main] INFO  - -------------------verifying the page title--------------------
+07:21:13.145 [main] INFO  - ___________________ Test starting__________________________
+07:21:13.145 [main] INFO  - ___________________ Before Hook__________________________
+07:21:15.983 [main] INFO  - -------------------verifying the page title--------------------
+07:21:16.025 [main] INFO  - -------------------Enter username--------------------
+07:21:16.126 [main] INFO  - Able to find the visibility of elemnt
+07:21:19.682 [main] INFO  - -------------------Enter passcode--------------------
+07:21:19.725 [main] INFO  - Able to find the visibility of elemnt
+07:21:23.015 [main] INFO  - -------------------click login--------------------
+07:21:27.181 [main] INFO  - -------------------verifying the page title--------------------
+07:21:27.203 [main] INFO  - -------------------user clicks on menu--------------------
+07:21:27.236 [main] INFO  - Able to find the presence of elemnt
+07:21:28.425 [main] INFO  - -------------------user click on page--------------------
+07:21:28.445 [main] INFO  - Able to find the presence of elemnt
+07:21:30.170 [main] INFO  - -------------------verifying the page title--------------------
+07:21:30.192 [main] INFO  - ___________________ Test starting__________________________
+07:21:30.193 [main] INFO  - ___________________ Before Hook__________________________
+07:21:32.812 [main] INFO  - -------------------verifying the page title--------------------
+07:21:32.978 [main] INFO  - -------------------Enter username--------------------
+07:21:33.131 [main] INFO  - Able to find the visibility of elemnt
+07:21:36.475 [main] INFO  - -------------------Enter passcode--------------------
+07:21:36.521 [main] INFO  - Able to find the visibility of elemnt
+07:21:39.737 [main] INFO  - -------------------click login--------------------
+07:21:43.937 [main] INFO  - -------------------verifying the page title--------------------
+07:21:43.951 [main] INFO  - -------------------user clicks on menu--------------------
+07:21:43.971 [main] INFO  - Able to find the presence of elemnt
+07:21:45.079 [main] INFO  - -------------------user click on page--------------------
+07:21:45.094 [main] INFO  - Able to find the presence of elemnt
+07:21:46.793 [main] INFO  - -------------------verifying the page title--------------------
+07:21:46.802 [main] INFO  - -------------------insert email------------------
+07:26:39.164 [main] INFO  - ___________________ Test starting__________________________
+07:26:39.171 [main] INFO  - ___________________ Before Hook__________________________
+07:26:43.659 [main] INFO  - -------------------verifying the page title--------------------
+07:26:43.705 [main] INFO  - -------------------Enter username--------------------
+07:26:43.828 [main] INFO  - Able to find the visibility of elemnt
+07:26:47.189 [main] INFO  - -------------------Enter passcode--------------------
+07:26:47.231 [main] INFO  - Able to find the visibility of elemnt
+07:26:50.470 [main] INFO  - -------------------click login--------------------
+07:26:55.237 [main] INFO  - -------------------verifying the page title--------------------
+07:26:55.283 [main] INFO  - ___________________ Test starting__________________________
+07:26:55.284 [main] INFO  - ___________________ Before Hook__________________________
+07:26:58.181 [main] INFO  - -------------------verifying the page title--------------------
+07:26:58.206 [main] INFO  - -------------------Enter username--------------------
+07:26:58.336 [main] INFO  - Able to find the visibility of elemnt
+07:27:01.749 [main] INFO  - -------------------Enter passcode--------------------
+07:27:01.790 [main] INFO  - Able to find the visibility of elemnt
+07:27:05.024 [main] INFO  - -------------------click login--------------------
+07:27:09.294 [main] INFO  - -------------------verifying the page title--------------------
+07:27:09.305 [main] INFO  - -------------------user clicks on menu--------------------
+07:27:09.329 [main] INFO  - Able to find the presence of elemnt
+07:27:10.435 [main] INFO  - -------------------user click on page--------------------
+07:27:10.459 [main] INFO  - Able to find the presence of elemnt
+07:27:12.226 [main] INFO  - -------------------verifying the page title--------------------
+07:27:12.242 [main] INFO  - ___________________ Test starting__________________________
+07:27:12.243 [main] INFO  - ___________________ Before Hook__________________________
+07:27:14.660 [main] INFO  - -------------------verifying the page title--------------------
+07:27:14.794 [main] INFO  - -------------------Enter username--------------------
+07:27:14.932 [main] INFO  - Able to find the visibility of elemnt
+07:27:18.256 [main] INFO  - -------------------Enter passcode--------------------
+07:27:18.313 [main] INFO  - Able to find the visibility of elemnt
+07:27:21.505 [main] INFO  - -------------------click login--------------------
+07:27:25.847 [main] INFO  - -------------------verifying the page title--------------------
+07:27:25.871 [main] INFO  - -------------------user clicks on menu--------------------
+07:27:25.892 [main] INFO  - Able to find the presence of elemnt
+07:27:26.973 [main] INFO  - -------------------user click on page--------------------
+07:27:26.995 [main] INFO  - Able to find the presence of elemnt
+07:27:28.750 [main] INFO  - -------------------verifying the page title--------------------
+07:27:28.761 [main] INFO  - -------------------insert email------------------
+07:27:30.985 [main] INFO  - -------------------search button clicked------------------
+07:27:33.063 [main] INFO  - -------------------Verify email------------------
+07:31:01.317 [main] INFO  - ___________________ Test starting__________________________
+07:31:01.326 [main] INFO  - ___________________ Before Hook__________________________
+07:31:05.921 [main] INFO  - -------------------verifying the page title--------------------
+07:31:06.074 [main] INFO  - -------------------Enter username--------------------
+07:31:06.218 [main] INFO  - Able to find the visibility of elemnt
+07:31:09.692 [main] INFO  - -------------------Enter passcode--------------------
+07:31:09.730 [main] INFO  - Able to find the visibility of elemnt
+07:31:12.954 [main] INFO  - -------------------click login--------------------
+07:31:18.860 [main] INFO  - -------------------verifying the page title--------------------
+07:31:18.893 [main] INFO  - ___________________ Test starting__________________________
+07:31:18.893 [main] INFO  - ___________________ Before Hook__________________________
+07:31:21.872 [main] INFO  - -------------------verifying the page title--------------------
+07:31:22.048 [main] INFO  - -------------------Enter username--------------------
+07:31:22.205 [main] INFO  - Able to find the visibility of elemnt
+07:31:25.634 [main] INFO  - -------------------Enter passcode--------------------
+07:31:25.683 [main] INFO  - Able to find the visibility of elemnt
+07:31:28.955 [main] INFO  - -------------------click login--------------------
+07:31:33.251 [main] INFO  - -------------------verifying the page title--------------------
+07:31:33.269 [main] INFO  - -------------------user clicks on menu--------------------
+07:31:33.295 [main] INFO  - Able to find the presence of elemnt
+07:31:34.436 [main] INFO  - -------------------user click on page--------------------
+07:31:34.458 [main] INFO  - Able to find the presence of elemnt
+07:31:36.165 [main] INFO  - -------------------verifying the page title--------------------
+07:31:36.186 [main] INFO  - ___________________ Test starting__________________________
+07:31:36.186 [main] INFO  - ___________________ Before Hook__________________________
+07:31:38.752 [main] INFO  - -------------------verifying the page title--------------------
+07:31:38.781 [main] INFO  - -------------------Enter username--------------------
+07:31:38.902 [main] INFO  - Able to find the visibility of elemnt
+07:31:42.358 [main] INFO  - -------------------Enter passcode--------------------
+07:31:42.570 [main] INFO  - Able to find the visibility of elemnt
+07:31:46.061 [main] INFO  - -------------------click login--------------------
+07:31:50.445 [main] INFO  - -------------------verifying the page title--------------------
+07:31:50.455 [main] INFO  - -------------------user clicks on menu--------------------
+07:31:50.478 [main] INFO  - Able to find the presence of elemnt
+07:31:51.584 [main] INFO  - -------------------user click on page--------------------
+07:31:51.606 [main] INFO  - Able to find the presence of elemnt
+07:31:53.506 [main] INFO  - -------------------verifying the page title--------------------
+07:31:53.515 [main] INFO  - -------------------insert email------------------
+07:31:55.775 [main] INFO  - -------------------search button clicked------------------
+07:31:57.869 [main] INFO  - -------------------Verify email------------------
+07:33:47.853 [main] INFO  - ___________________ Test starting__________________________
+07:33:47.859 [main] INFO  - ___________________ Before Hook__________________________
+07:33:52.405 [main] INFO  - -------------------verifying the page title--------------------
+07:33:52.473 [main] INFO  - -------------------Enter username--------------------
+07:33:52.610 [main] INFO  - Able to find the visibility of elemnt
+07:33:56.019 [main] INFO  - -------------------Enter passcode--------------------
+07:33:56.065 [main] INFO  - Able to find the visibility of elemnt
+07:33:59.274 [main] INFO  - -------------------click login--------------------
+07:34:03.509 [main] INFO  - -------------------verifying the page title--------------------
+07:34:03.545 [main] INFO  - ___________________ Test starting__________________________
+07:34:03.546 [main] INFO  - ___________________ Before Hook__________________________
+07:34:06.101 [main] INFO  - -------------------verifying the page title--------------------
+07:34:06.119 [main] INFO  - -------------------Enter username--------------------
+07:34:06.189 [main] INFO  - Able to find the visibility of elemnt
+07:34:09.760 [main] INFO  - -------------------Enter passcode--------------------
+07:34:09.805 [main] INFO  - Able to find the visibility of elemnt
+07:34:13.012 [main] INFO  - -------------------click login--------------------
+07:34:17.157 [main] INFO  - -------------------verifying the page title--------------------
+07:34:17.169 [main] INFO  - -------------------user clicks on menu--------------------
+07:34:17.193 [main] INFO  - Able to find the presence of elemnt
+07:34:18.308 [main] INFO  - -------------------user click on page--------------------
+07:34:18.331 [main] INFO  - Able to find the presence of elemnt
+07:34:20.068 [main] INFO  - -------------------verifying the page title--------------------
+07:34:20.082 [main] INFO  - ___________________ Test starting__________________________
+07:34:20.082 [main] INFO  - ___________________ Before Hook__________________________
+07:34:22.557 [main] INFO  - -------------------verifying the page title--------------------
+07:34:22.577 [main] INFO  - -------------------Enter username--------------------
+07:34:22.656 [main] INFO  - Able to find the visibility of elemnt
+07:34:26.163 [main] INFO  - -------------------Enter passcode--------------------
+07:34:26.203 [main] INFO  - Able to find the visibility of elemnt
+07:34:29.422 [main] INFO  - -------------------click login--------------------
+07:34:33.647 [main] INFO  - -------------------verifying the page title--------------------
+07:34:33.655 [main] INFO  - -------------------user clicks on menu--------------------
+07:34:33.673 [main] INFO  - Able to find the presence of elemnt
+07:34:34.758 [main] INFO  - -------------------user click on page--------------------
+07:34:34.783 [main] INFO  - Able to find the presence of elemnt
+07:34:36.534 [main] INFO  - -------------------verifying the page title--------------------
+07:34:36.551 [main] INFO  - -------------------insert email------------------
+07:34:38.952 [main] INFO  - -------------------search button clicked------------------
+07:34:41.035 [main] INFO  - -------------------Verify email------------------
+07:37:26.182 [main] INFO  - ___________________ Test starting__________________________
+07:37:26.189 [main] INFO  - ___________________ Before Hook__________________________
+07:37:31.330 [main] INFO  - -------------------verifying the page title--------------------
+07:37:31.380 [main] INFO  - -------------------Enter username--------------------
+07:37:31.499 [main] INFO  - Able to find the visibility of elemnt
+07:37:34.958 [main] INFO  - -------------------Enter passcode--------------------
+07:37:35.002 [main] INFO  - Able to find the visibility of elemnt
+07:37:38.240 [main] INFO  - -------------------click login--------------------
+07:37:42.463 [main] INFO  - -------------------verifying the page title--------------------
+07:37:42.492 [main] INFO  - ___________________ Test starting__________________________
+07:37:42.492 [main] INFO  - ___________________ Before Hook__________________________
+07:37:45.133 [main] INFO  - -------------------verifying the page title--------------------
+07:37:45.157 [main] INFO  - -------------------Enter username--------------------
+07:37:45.279 [main] INFO  - Able to find the visibility of elemnt
+07:37:48.702 [main] INFO  - -------------------Enter passcode--------------------
+07:37:48.751 [main] INFO  - Able to find the visibility of elemnt
+07:37:52.021 [main] INFO  - -------------------click login--------------------
+07:37:56.668 [main] INFO  - -------------------verifying the page title--------------------
+07:37:56.721 [main] INFO  - -------------------user clicks on menu--------------------
+07:37:56.769 [main] INFO  - Able to find the presence of elemnt
+07:37:58.008 [main] INFO  - -------------------user click on page--------------------
+07:37:58.027 [main] INFO  - Able to find the presence of elemnt
+07:37:59.722 [main] INFO  - -------------------verifying the page title--------------------
+07:37:59.741 [main] INFO  - ___________________ Test starting__________________________
+07:37:59.741 [main] INFO  - ___________________ Before Hook__________________________
+07:38:02.441 [main] INFO  - -------------------verifying the page title--------------------
+07:38:02.502 [main] INFO  - -------------------Enter username--------------------
+07:38:02.652 [main] INFO  - Able to find the visibility of elemnt
+07:38:05.992 [main] INFO  - -------------------Enter passcode--------------------
+07:38:06.027 [main] INFO  - Able to find the visibility of elemnt
+07:38:09.199 [main] INFO  - -------------------click login--------------------
+07:38:13.445 [main] INFO  - -------------------verifying the page title--------------------
+07:38:13.456 [main] INFO  - -------------------user clicks on menu--------------------
+07:38:13.476 [main] INFO  - Able to find the presence of elemnt
+07:38:14.575 [main] INFO  - -------------------user click on page--------------------
+07:38:14.593 [main] INFO  - Able to find the presence of elemnt
+07:38:16.297 [main] INFO  - -------------------verifying the page title--------------------
+07:38:16.307 [main] INFO  - -------------------insert email------------------
+07:38:18.537 [main] INFO  - -------------------search button clicked------------------
+07:38:20.632 [main] INFO  - -------------------Verify email------------------
+07:39:06.051 [main] INFO  - ___________________ Test starting__________________________
+07:39:06.058 [main] INFO  - ___________________ Before Hook__________________________
+07:39:10.196 [main] INFO  - -------------------verifying the page title--------------------
+07:39:10.257 [main] INFO  - -------------------Enter username--------------------
+07:39:10.366 [main] INFO  - Able to find the visibility of elemnt
+07:39:13.786 [main] INFO  - -------------------Enter passcode--------------------
+07:39:13.829 [main] INFO  - Able to find the visibility of elemnt
+07:39:17.028 [main] INFO  - -------------------click login--------------------
+07:39:21.195 [main] INFO  - -------------------verifying the page title--------------------
+07:39:21.205 [main] INFO  - -------------------user clicks on menu--------------------
+07:39:21.226 [main] INFO  - Able to find the presence of elemnt
+07:39:22.314 [main] INFO  - -------------------user click on page--------------------
+07:39:22.332 [main] INFO  - Able to find the presence of elemnt
+07:39:24.014 [main] INFO  - -------------------verifying the page title--------------------
+07:39:24.023 [main] INFO  - -------------------insert email------------------
+07:39:26.323 [main] INFO  - -------------------search button clicked------------------
+07:39:28.409 [main] INFO  - -------------------Verify email------------------
+07:41:18.320 [main] INFO  - ___________________ Test starting__________________________
+07:41:18.328 [main] INFO  - ___________________ Before Hook__________________________
+07:41:23.016 [main] INFO  - -------------------verifying the page title--------------------
+07:41:23.067 [main] INFO  - -------------------Enter username--------------------
+07:41:23.186 [main] INFO  - Able to find the visibility of elemnt
+07:41:26.572 [main] INFO  - -------------------Enter passcode--------------------
+07:41:26.605 [main] INFO  - Able to find the visibility of elemnt
+07:41:29.798 [main] INFO  - -------------------click login--------------------
+07:41:34.142 [main] INFO  - -------------------verifying the page title--------------------
+07:41:34.155 [main] INFO  - -------------------user clicks on menu--------------------
+07:41:34.182 [main] INFO  - Able to find the presence of elemnt
+07:41:35.317 [main] INFO  - -------------------user click on page--------------------
+07:41:35.338 [main] INFO  - Able to find the presence of elemnt
+07:41:37.140 [main] INFO  - -------------------verifying the page title--------------------
+07:41:37.152 [main] INFO  - -------------------insert email------------------
+07:41:39.444 [main] INFO  - -------------------search button clicked------------------
+07:41:41.536 [main] INFO  - -------------------Verify email------------------
+07:42:48.512 [main] INFO  - ___________________ Test starting__________________________
+07:42:48.520 [main] INFO  - ___________________ Before Hook__________________________
+07:42:53.188 [main] INFO  - -------------------verifying the page title--------------------
+07:42:53.242 [main] INFO  - -------------------Enter username--------------------
+07:42:53.364 [main] INFO  - Able to find the visibility of elemnt
+07:42:56.696 [main] INFO  - -------------------Enter passcode--------------------
+07:42:56.734 [main] INFO  - Able to find the visibility of elemnt
+07:42:59.915 [main] INFO  - -------------------click login--------------------
+07:43:04.361 [main] INFO  - -------------------verifying the page title--------------------
+07:43:04.381 [main] INFO  - -------------------user clicks on menu--------------------
+07:43:04.401 [main] INFO  - Able to find the presence of elemnt
+07:43:05.483 [main] INFO  - -------------------user click on page--------------------
+07:43:05.501 [main] INFO  - Able to find the presence of elemnt
+07:43:07.215 [main] INFO  - -------------------verifying the page title--------------------
+07:43:07.227 [main] INFO  - -------------------insert email------------------
+07:43:09.533 [main] INFO  - -------------------search button clicked------------------
+07:43:11.623 [main] INFO  - -------------------Verify email------------------
+07:46:01.552 [main] INFO  - ___________________ Test starting__________________________
+07:46:01.558 [main] INFO  - ___________________ Before Hook__________________________
+07:46:05.926 [main] INFO  - -------------------verifying the page title--------------------
+07:46:06.071 [main] INFO  - -------------------Enter username--------------------
+07:46:06.181 [main] INFO  - Able to find the visibility of elemnt
+07:46:09.576 [main] INFO  - -------------------Enter passcode--------------------
+07:46:09.617 [main] INFO  - Able to find the visibility of elemnt
+07:46:12.825 [main] INFO  - -------------------click login--------------------
+07:46:16.946 [main] INFO  - -------------------verifying the page title--------------------
+07:46:16.956 [main] INFO  - -------------------user clicks on menu--------------------
+07:46:16.977 [main] INFO  - Able to find the presence of elemnt
+07:46:18.056 [main] INFO  - -------------------user click on page--------------------
+07:46:18.088 [main] INFO  - Able to find the presence of elemnt
+07:46:19.805 [main] INFO  - -------------------verifying the page title--------------------
+07:46:19.815 [main] INFO  - -------------------insert email------------------
+07:46:22.139 [main] INFO  - -------------------search button clicked------------------
+07:46:24.219 [main] INFO  - -------------------Verify email------------------
+07:47:20.471 [main] INFO  - ___________________ Test starting__________________________
+07:47:20.479 [main] INFO  - ___________________ Before Hook__________________________
+07:47:24.687 [main] INFO  - -------------------verifying the page title--------------------
+07:47:24.731 [main] INFO  - -------------------Enter username--------------------
+07:47:24.855 [main] INFO  - Able to find the visibility of elemnt
+07:47:28.264 [main] INFO  - -------------------Enter passcode--------------------
+07:47:28.309 [main] INFO  - Able to find the visibility of elemnt
+07:47:31.519 [main] INFO  - -------------------click login--------------------
+07:47:35.699 [main] INFO  - -------------------verifying the page title--------------------
+07:47:35.709 [main] INFO  - -------------------user clicks on menu--------------------
+07:47:35.731 [main] INFO  - Able to find the presence of elemnt
+07:47:36.837 [main] INFO  - -------------------user click on page--------------------
+07:47:36.855 [main] INFO  - Able to find the presence of elemnt
+07:47:38.586 [main] INFO  - -------------------verifying the page title--------------------
+07:47:38.598 [main] INFO  - -------------------insert email------------------
+07:47:40.914 [main] INFO  - -------------------search button clicked------------------
+07:47:43.008 [main] INFO  - -------------------Verify email------------------
+07:49:36.507 [main] INFO  - ___________________ Test starting__________________________
+07:49:36.518 [main] INFO  - ___________________ Before Hook__________________________
+07:49:40.855 [main] INFO  - -------------------verifying the page title--------------------
+07:49:40.901 [main] INFO  - -------------------Enter username--------------------
+07:49:41.012 [main] INFO  - Able to find the visibility of elemnt
+07:49:44.459 [main] INFO  - -------------------Enter passcode--------------------
+07:49:44.499 [main] INFO  - Able to find the visibility of elemnt
+07:49:47.723 [main] INFO  - -------------------click login--------------------
+07:49:51.268 [main] INFO  - -------------------verifying the page title--------------------
+07:49:51.307 [main] INFO  - ___________________ Test starting__________________________
+07:49:51.308 [main] INFO  - ___________________ Before Hook__________________________
+07:49:53.843 [main] INFO  - -------------------verifying the page title--------------------
+07:49:53.877 [main] INFO  - -------------------Enter username--------------------
+07:49:54.024 [main] INFO  - Able to find the visibility of elemnt
+07:49:57.547 [main] INFO  - -------------------Enter passcode--------------------
+07:49:57.585 [main] INFO  - Able to find the visibility of elemnt
+07:50:00.817 [main] INFO  - -------------------click login--------------------
+07:50:05.131 [main] INFO  - -------------------verifying the page title--------------------
+07:50:05.140 [main] INFO  - -------------------user clicks on menu--------------------
+07:50:05.161 [main] INFO  - Able to find the presence of elemnt
+07:50:06.254 [main] INFO  - -------------------user click on page--------------------
+07:50:06.273 [main] INFO  - Able to find the presence of elemnt
+07:50:07.964 [main] INFO  - -------------------verifying the page title--------------------
+07:50:07.982 [main] INFO  - ___________________ Test starting__________________________
+07:50:07.982 [main] INFO  - ___________________ Before Hook__________________________
+07:50:10.526 [main] INFO  - -------------------verifying the page title--------------------
+07:50:10.557 [main] INFO  - -------------------Enter username--------------------
+07:50:10.626 [main] INFO  - Able to find the visibility of elemnt
+07:50:14.076 [main] INFO  - -------------------Enter passcode--------------------
+07:50:14.114 [main] INFO  - Able to find the visibility of elemnt
+07:50:17.337 [main] INFO  - -------------------click login--------------------
+07:50:21.610 [main] INFO  - -------------------verifying the page title--------------------
+07:50:21.618 [main] INFO  - -------------------user clicks on menu--------------------
+07:50:21.635 [main] INFO  - Able to find the presence of elemnt
+07:50:22.722 [main] INFO  - -------------------user click on page--------------------
+07:50:22.737 [main] INFO  - Able to find the presence of elemnt
+07:50:24.405 [main] INFO  - -------------------verifying the page title--------------------
+07:50:24.413 [main] INFO  - -------------------insert email------------------
+07:50:26.691 [main] INFO  - -------------------search button clicked------------------
+07:50:28.775 [main] INFO  - -------------------Verify email------------------
+17:40:54.198 [main] INFO  - ___________________ Test starting__________________________
+17:40:54.211 [main] INFO  - ___________________ Before Hook__________________________
+17:41:00.514 [main] INFO  - -------------------verifying the page title--------------------
+17:41:00.796 [main] INFO  - -------------------Enter username--------------------
+17:41:01.106 [main] INFO  - Able to find the visibility of elemnt
+17:41:04.765 [main] INFO  - -------------------Enter passcode--------------------
+17:41:04.862 [main] INFO  - Able to find the visibility of elemnt
+17:41:08.261 [main] INFO  - -------------------click login--------------------
+17:41:12.768 [main] INFO  - -------------------verifying the page title--------------------
+17:41:12.810 [main] INFO  - -------------------user clicks on menu--------------------
+17:41:12.888 [main] INFO  - Able to find the presence of elemnt
+17:41:14.068 [main] INFO  - -------------------user click on page--------------------
+17:41:14.093 [main] INFO  - Able to find the presence of elemnt
+17:41:15.965 [main] INFO  - -------------------verifying the page title--------------------
+17:41:15.992 [main] INFO  - -------------------insert email------------------
+17:41:18.484 [main] INFO  - -------------------search button clicked------------------
+17:41:20.636 [main] INFO  - -------------------Verify email------------------
+17:42:37.734 [main] INFO  - ___________________ Test starting__________________________
+17:42:37.748 [main] INFO  - ___________________ Before Hook__________________________
+17:42:43.556 [main] INFO  - -------------------verifying the page title--------------------
+17:42:43.919 [main] INFO  - -------------------Enter username--------------------
+17:42:44.110 [main] INFO  - Able to find the visibility of elemnt
+17:42:47.520 [main] INFO  - -------------------Enter passcode--------------------
+17:42:47.597 [main] INFO  - Able to find the visibility of elemnt
+17:42:50.946 [main] INFO  - -------------------click login--------------------
+17:42:56.970 [main] INFO  - -------------------verifying the page title--------------------
+17:42:56.996 [main] INFO  - -------------------user clicks on menu--------------------
+17:42:57.029 [main] INFO  - Able to find the presence of elemnt
+17:42:58.190 [main] INFO  - -------------------user click on page--------------------
+17:42:58.222 [main] INFO  - Able to find the presence of elemnt
+17:43:00.624 [main] INFO  - -------------------verifying the page title--------------------
+17:43:00.651 [main] INFO  - -------------------insert email------------------
+17:43:03.127 [main] INFO  - -------------------search button clicked------------------
+17:43:05.268 [main] INFO  - -------------------Verify email------------------
+17:45:06.703 [main] INFO  - ___________________ Test starting__________________________
+17:45:06.718 [main] INFO  - ___________________ Before Hook__________________________
+17:45:13.031 [main] INFO  - -------------------verifying the page title--------------------
+17:45:13.218 [main] INFO  - -------------------Enter username--------------------
+17:45:13.476 [main] INFO  - Able to find the visibility of elemnt
+17:45:16.993 [main] INFO  - -------------------Enter passcode--------------------
+17:45:17.087 [main] INFO  - Able to find the visibility of elemnt
+17:45:20.372 [main] INFO  - -------------------click login--------------------
+17:45:24.802 [main] INFO  - -------------------verifying the page title--------------------
+17:45:24.820 [main] INFO  - -------------------user clicks on menu--------------------
+17:45:24.851 [main] INFO  - Able to find the presence of elemnt
+17:45:26.045 [main] INFO  - -------------------user click on page--------------------
+17:45:26.074 [main] INFO  - Able to find the presence of elemnt
+17:45:28.452 [main] INFO  - -------------------verifying the page title--------------------
+17:45:28.472 [main] INFO  - -------------------insert email------------------
+17:45:30.881 [main] INFO  - -------------------search button clicked------------------
+17:45:33.002 [main] INFO  - -------------------Verify email------------------
+17:45:33.263 [main] INFO  - ___________________ Test starting__________________________
+17:45:33.264 [main] INFO  - ___________________ Before Hook__________________________
+17:45:35.702 [main] INFO  - -------------------verifying the page title--------------------
+17:45:35.883 [main] INFO  - -------------------Enter username--------------------
+17:45:36.022 [main] INFO  - Able to find the visibility of elemnt
+17:45:39.546 [main] INFO  - -------------------Enter passcode--------------------
+17:45:39.651 [main] INFO  - Able to find the visibility of elemnt
+17:45:43.051 [main] INFO  - -------------------click login--------------------
+20:36:17.429 [main] INFO  - ___________________ Test starting__________________________
+20:36:17.438 [main] INFO  - ___________________ Before Hook__________________________
+20:36:24.491 [main] INFO  - -------------------verifying the page title--------------------
+20:36:24.693 [main] INFO  - -------------------Enter username--------------------
+20:36:24.971 [main] INFO  - Able to find the visibility of elemnt
+20:36:28.356 [main] INFO  - -------------------Enter passcode--------------------
+20:36:28.425 [main] INFO  - Able to find the visibility of elemnt
+20:36:31.666 [main] INFO  - -------------------click login--------------------
+20:36:36.241 [main] INFO  - -------------------verifying the page title--------------------
+20:36:36.263 [main] INFO  - ___________________ Test starting__________________________
+20:36:36.263 [main] INFO  - ___________________ Before Hook__________________________
+20:36:38.997 [main] INFO  - -------------------verifying the page title--------------------
+20:36:39.012 [main] INFO  - -------------------Enter username--------------------
+20:36:39.155 [main] INFO  - Able to find the visibility of elemnt
+20:36:42.652 [main] INFO  - -------------------Enter passcode--------------------
+20:36:42.726 [main] INFO  - ___________________ Test starting__________________________
+20:36:42.727 [main] INFO  - ___________________ Before Hook__________________________
+20:36:45.644 [main] INFO  - -------------------verifying the page title--------------------
+20:36:45.669 [main] INFO  - -------------------Enter username--------------------
+20:36:45.728 [main] INFO  - Able to find the visibility of elemnt
+20:36:49.208 [main] INFO  - -------------------Enter passcode--------------------
+20:36:49.277 [main] INFO  - ___________________ Test starting__________________________
+20:36:49.278 [main] INFO  - ___________________ Before Hook__________________________
+20:36:51.243 [main] INFO  - -------------------verifying the page title--------------------
+20:36:51.262 [main] INFO  - -------------------Enter username--------------------
+20:36:51.333 [main] INFO  - Able to find the visibility of elemnt
+20:36:54.778 [main] INFO  - -------------------Enter passcode--------------------
+20:36:54.835 [main] INFO  - Able to find the visibility of elemnt
+20:36:58.134 [main] INFO  - -------------------click login--------------------
