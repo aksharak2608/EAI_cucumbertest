@@ -657,3 +657,51 @@
 20:36:54.778 [main] INFO  - -------------------Enter passcode--------------------
 20:36:54.835 [main] INFO  - Able to find the visibility of elemnt
 20:36:58.134 [main] INFO  - -------------------click login--------------------
+11:33:19.052 [main] INFO  - ___________________ Test starting__________________________
+11:33:19.063 [main] INFO  - ___________________ Before Hook__________________________
+11:33:24.154 [main] INFO  - -------------------verifying the page title--------------------
+11:33:24.211 [main] INFO  - -------------------Enter username--------------------
+11:33:24.311 [main] INFO  - Able to find the visibility of elemnt
+11:33:27.689 [main] INFO  - -------------------Enter passcode--------------------
+11:33:27.736 [main] INFO  - Able to find the visibility of elemnt
+11:33:30.969 [main] INFO  - -------------------click login--------------------
+11:33:35.210 [main] INFO  - -------------------verifying the page title--------------------
+11:33:35.231 [main] INFO  - ___________________ Test starting__________________________
+11:33:35.232 [main] INFO  - ___________________ Before Hook__________________________
+11:33:37.850 [main] INFO  - -------------------verifying the page title--------------------
+11:33:37.868 [main] INFO  - -------------------Enter username--------------------
+11:33:37.920 [main] INFO  - Able to find the visibility of elemnt
+11:33:41.326 [main] INFO  - -------------------Enter passcode--------------------
+11:33:41.363 [main] INFO  - Able to find the visibility of elemnt
+11:33:44.547 [main] INFO  - -------------------click login--------------------
+11:33:48.189 [main] INFO  - -------------------verifying the page title--------------------
+11:33:48.197 [main] INFO  - -------------------user clicks on menu--------------------
+11:33:48.222 [main] INFO  - Able to find the presence of elemnt
+11:33:49.327 [main] INFO  - -------------------user click on page--------------------
+11:33:49.348 [main] INFO  - Able to find the presence of elemnt
+11:33:51.095 [main] INFO  - -------------------verifying the page title--------------------
+11:33:51.110 [main] INFO  - ___________________ Test starting__________________________
+11:33:51.110 [main] INFO  - ___________________ Before Hook__________________________
+11:33:52.882 [main] INFO  - -------------------verifying the page title--------------------
+11:33:52.901 [main] INFO  - -------------------Enter username--------------------
+11:33:52.947 [main] INFO  - Able to find the visibility of elemnt
+11:33:56.413 [main] INFO  - -------------------Enter passcode--------------------
+11:33:56.448 [main] INFO  - Able to find the visibility of elemnt
+11:33:59.672 [main] INFO  - -------------------click login--------------------
+11:34:04.015 [main] INFO  - -------------------verifying the page title--------------------
+11:34:04.024 [main] INFO  - -------------------user clicks on menu--------------------
+11:34:04.045 [main] INFO  - Able to find the presence of elemnt
+11:34:05.135 [main] INFO  - -------------------user click on page--------------------
+11:34:05.150 [main] INFO  - Able to find the presence of elemnt
+11:34:06.947 [main] INFO  - -------------------verifying the page title--------------------
+11:34:06.956 [main] INFO  - -------------------insert email------------------
+11:34:09.194 [main] INFO  - -------------------search button clicked------------------
+11:34:11.285 [main] INFO  - -------------------Verify email------------------
+11:34:11.475 [main] INFO  - ___________________ Test starting__________________________
+11:34:11.476 [main] INFO  - ___________________ Before Hook__________________________
+11:34:13.913 [main] INFO  - -------------------verifying the page title--------------------
+11:34:13.929 [main] INFO  - -------------------Enter username--------------------
+11:34:14.042 [main] INFO  - Able to find the visibility of elemnt
+11:34:17.452 [main] INFO  - -------------------Enter passcode--------------------
+11:34:17.491 [main] INFO  - Able to find the visibility of elemnt
+11:34:20.662 [main] INFO  - -------------------click login--------------------

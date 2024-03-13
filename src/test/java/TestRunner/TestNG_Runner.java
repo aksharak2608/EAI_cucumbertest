@@ -6,11 +6,11 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(features = {"D:\\EAI\\workspace\\testcucum\\features"},
 glue= {"stepdefinition","utilities"},
-/*plugin = {
+plugin = {
 		"pretty",
-		"html:D:\\EAI\\workspace\\cucumberFramework\\target\\htmlReports\\report.html",
-		"json:D:\\EAI\\workspace\\cucumberFramework\\target\\cucumberReports\\json"
-},*/
+		"html:D:\\EAI\\workspace\\testcucum\\target\\htmlReports\\report.html",
+		"json:D:\\EAI\\workspace\\testcucum\\target\\cucumberReports\\json"
+},
 dryRun = false,
 monochrome = true,
 tags="(@nop or @sanity) and not ( @nop and @sanity)"
