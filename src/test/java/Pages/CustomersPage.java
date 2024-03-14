@@ -9,9 +9,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import utilities.Commons;
+import Utilities.*;
 
-public class CustomersPage extends Commons {
+public class CustomersPage extends commons {
 
 	
 	public CustomersPage(WebDriver driver)
@@ -22,6 +22,7 @@ public class CustomersPage extends Commons {
 	
 	
 	@FindBy(how= How.ID, using="SearchEmail")WebElement emailsearch;
+	//@FindBy(id="SearchEmail")
 
 	@FindBy(how= How.ID, using="search-customers")WebElement searchBin;
 	@FindBy(how=How.XPATH, using="//table[@id='customers-grid']") WebElement table;

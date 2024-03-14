@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import utilities.Commons;
+import Utilities.commons;
 
-public class DashboardPage extends Commons {
+public class DashboardPage extends commons {
 
 	
 	public DashboardPage(WebDriver driver)

@@ -1,4 +1,4 @@
-package utilities;
+package Utilities;
 
 import java.io.File;
 import java.time.Duration;
@@ -26,8 +26,8 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class Commons {
-	public static Logger log= (Logger) LogManager.getLogger(Commons.class);
+public class commons {
+	public static Logger log= (Logger) LogManager.getLogger(commons.class);
 	public static WebDriver driver;
 	public static String fp=System.getProperty("user.dir");
 		public ExtentSparkReporter spark = new ExtentSparkReporter(fp+"\\reports\\spark"+System.currentTimeMillis()+".html");
@@ -44,7 +44,9 @@ public void cofigreport()
 	spark.config().setDocumentTitle("final report");
 	spark.config().setReportName("amazone report"+System.currentTimeMillis());
 	spark.config().setTheme(Theme.DARK);
-} public static WebDriver Ibrowser(String NameOfBrowser, String url) {
+} 
+
+public static WebDriver Ibrowser(String NameOfBrowser, String url) {
 		if(NameOfBrowser.equalsIgnoreCase("chrome"))
 		{
 			WebDriverManager.chromedriver().setup();

@@ -5,9 +5,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import utilities.Commons;
+import Utilities.commons;
 
-public class Loginpage extends Commons {
+public class Loginpage extends commons {
 
 	
 	public Loginpage(WebDriver driver)
@@ -15,6 +15,7 @@ public class Loginpage extends Commons {
 		this.driver=driver;
 		PageFactory.initElements(driver,this);
 	}
+	
 	@FindBy(xpath="//input[@type='email']")WebElement emailfield;
 
 	@FindBy(id="Password")WebElement passwordfield;

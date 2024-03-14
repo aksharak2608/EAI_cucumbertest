@@ -2,10 +2,10 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	
-	<listeners><listener class-name="listeners.TestListeners"></listener></listeners>
+	<listeners><listener class-name="Listeners.TestListeners"></listener></listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="runner.TestNG_Runner"/>
+      <class name="TestRunner.TestNG_Runner"/>
      
     </classes>
   </test> <!-- Test -->

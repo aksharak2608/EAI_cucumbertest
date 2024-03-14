@@ -1,18 +1,15 @@
-Feature: your store
+Feature: Title of your feature
+  I want to use this template for my feature file
 
-  Background: below are common steps
-    Given user launch "chrome" browser with "https://admin-demo.nopcommerce.com/login "
-    Then user navigates to "Your store. Login"
-    And user enters email as "admin@yourstore.com" and password as "admin"
-    Then CLick on login
+  Background: 
+    Given user opens "chrome" browser with "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
+    Then verify the title is "Your store. Login"
+    And enter the username "admin@yourstore.com" and password "admin"
+    Then click on login
 
-  @nop
-  Scenario: sucessfull login
-    And user lands on "Dashboard / nopCommerce administration" page
-
-  @nop
-  Scenario Outline: sucessfull login
-    And user lands on "Dashboard / nopCommerce administration" page
+  @sanity
+  Scenario Outline: Title of your scenario
+    And user lands on "Dashboard / nopCommerce administration"
     Then user clicks on "<menu>" menu
     When user clicks on customer Button
     Then user lands on "<customer search>" page
@@ -21,7 +18,10 @@ Feature: your store
       | menu      | customer search                        |
       | Customers | Customers / nopCommerce administration |
 
-  @sanity
+  @sanity @reg
+  Scenario: Title of your scenario
+    And user lands on "Dashboard / nopCommerce administration"
+    @reg
   Scenario Outline: sucessfull login
     And user lands on "Dashboard / nopCommerce administration" page
     Then user clicks on "<menu>" menu
@@ -35,5 +35,4 @@ Feature: your store
     Examples: 
       | menu      | customer search                        | emailId                   |
       | Customers | Customers / nopCommerce administration | james_pan@nopCommerce.com |
-    
     

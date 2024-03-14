@@ -1,8 +1,8 @@
 package Pages;
 
-import utilities.Commons;
+import Utilities.commons;
 
-public class pages extends Commons {
+public class pages extends commons {
 	public Loginpage loginPage;
 	public DashboardPage dashboardPage;
 	public CustomersPage customersPage;

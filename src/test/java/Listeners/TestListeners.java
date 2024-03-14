@@ -1,4 +1,4 @@
-package listeners;
+package Listeners;
 
 
 	import org.testng.ITestContext;
@@ -9,9 +9,9 @@ package listeners;
 	import com.aventstack.extentreports.markuputils.ExtentColor;
 	import com.aventstack.extentreports.markuputils.MarkupHelper;
 
-import utilities.Commons;
+import Utilities.commons;
 
-	public class TestListeners extends Commons implements ITestListener {
+	public class TestListeners extends commons implements ITestListener {
 
 		
 		@Override
@@ -33,8 +33,8 @@ import utilities.Commons;
 		
 		@Override
 		public void onTestStart(ITestResult result) {
-//			test=reports.createTest(result.getName());
-//			test.info("starting test method: "+ result.getName());
+			test=extent.createTest(result.getName());
+			test.info("starting test method: "+ result.getName());
 			
 			
 			System.out.println("on Test Start: "+ result.getName());
@@ -45,7 +45,7 @@ import utilities.Commons;
 
 		@Override
 		public void onTestSuccess(ITestResult result) {
-			this.driver= ((Commons)result.getInstance()).driver;
+			this.driver= ((commons)result.getInstance()).driver;
 
 			test=extent.createTest(result.getName());
 			test.log(Status.PASS, MarkupHelper.createLabel("Name of the method that passed is: "+result.getName(), ExtentColor.GREEN));
