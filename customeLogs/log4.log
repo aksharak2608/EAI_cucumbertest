@@ -302,3 +302,65 @@
 08:13:43.224 [main] INFO  - -------------------search button clicked------------------
 08:13:45.329 [main] INFO  - -------------------Verify email------------------
 08:13:45.456 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:29:14.600 [main] INFO  - ___________________ Test starting__________________________
+08:29:14.606 [main] INFO  - ___________________ Before Hook__________________________
+08:29:19.032 [main] INFO  - Able to find the visibility of elemnt
+08:29:22.434 [main] INFO  - Able to find the visibility of elemnt
+08:29:29.243 [main] INFO  - -------------------user clicks on menu--------------------
+08:29:29.278 [main] INFO  - Able to find the presence of elemnt
+08:29:30.406 [main] INFO  - -------------------user click on page--------------------
+08:29:30.432 [main] INFO  - Able to find the presence of elemnt
+08:29:32.162 [main] INFO  - -------------------verifying the page title--------------------
+08:29:32.183 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:29:32.217 [main] INFO  - ___________________ Test starting__________________________
+08:29:32.219 [main] INFO  - ___________________ Before Hook__________________________
+08:29:34.870 [main] INFO  - Able to find the visibility of elemnt
+08:29:35.176 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:39:28.396 [main] INFO  - ___________________ Test starting__________________________
+08:39:28.399 [main] INFO  - ___________________ Before Hook__________________________
+08:39:32.643 [main] INFO  - Able to find the visibility of elemnt
+08:39:36.043 [main] INFO  - Able to find the visibility of elemnt
+08:39:42.936 [main] INFO  - -------------------user clicks on menu--------------------
+08:39:43.008 [main] INFO  - Able to find the presence of elemnt
+08:39:44.163 [main] INFO  - -------------------user click on page--------------------
+08:39:44.191 [main] INFO  - Able to find the presence of elemnt
+08:39:45.957 [main] INFO  - -------------------verifying the page title--------------------
+08:39:45.966 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:39:45.982 [main] INFO  - ___________________ Test starting__________________________
+08:39:45.983 [main] INFO  - ___________________ Before Hook__________________________
+08:39:48.680 [main] INFO  - Able to find the visibility of elemnt
+08:39:51.990 [main] INFO  - Able to find the visibility of elemnt
+08:39:56.302 [main] INFO  - -------------------verifying the page title--------------------
+08:39:57.753 [main] INFO  - -------------------user clicks on menu--------------------
+08:39:57.779 [main] INFO  - Able to find the presence of elemnt
+08:39:58.891 [main] INFO  - -------------------user click on page--------------------
+08:39:58.915 [main] INFO  - Able to find the presence of elemnt
+08:40:00.619 [main] INFO  - -------------------verifying the page title--------------------
+08:40:00.635 [main] INFO  - -------------------insert email------------------
+08:40:02.947 [main] INFO  - -------------------search button clicked------------------
+08:40:05.043 [main] INFO  - -------------------Verify email------------------
+08:40:05.168 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:41:52.120 [main] INFO  - **************************  Configuring extent Report ************************
+08:41:52.845 [main] INFO  - ___________________ Test starting__________________________
+08:41:52.849 [main] INFO  - ___________________ Before Hook__________________________
+08:41:57.211 [main] INFO  - Able to find the visibility of elemnt
+08:42:00.619 [main] INFO  - Able to find the visibility of elemnt
+08:42:07.535 [main] INFO  - -------------------user clicks on menu--------------------
+08:42:07.575 [main] INFO  - Able to find the presence of elemnt
+08:42:08.787 [main] INFO  - -------------------user click on page--------------------
+08:42:08.809 [main] INFO  - Able to find the presence of elemnt
+08:42:10.802 [main] INFO  - -------------------verifying the page title--------------------
+08:42:10.812 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:42:10.911 [main] INFO  - **************************  Finishing Report ************************
+08:44:14.468 [main] INFO  - **************************  Configuring extent Report ************************
+08:44:15.341 [main] INFO  - ___________________ Test starting__________________________
+08:44:15.344 [main] INFO  - ___________________ Before Hook__________________________
+08:44:19.474 [main] INFO  - Able to find the visibility of elemnt
+08:44:22.838 [main] INFO  - Able to find the visibility of elemnt
+08:44:29.614 [main] INFO  - -------------------user clicks on menu--------------------
+08:44:29.673 [main] INFO  - Able to find the presence of elemnt
+08:44:30.766 [main] INFO  - -------------------user click on page--------------------
+08:44:30.790 [main] INFO  - Able to find the presence of elemnt
+08:44:32.576 [main] INFO  - -------------------verifying the page title--------------------
+08:44:32.588 [main] INFO  - -----------------------------------test completed----------------------------------------------
+08:44:32.736 [main] INFO  - **************************  Finishing Report ************************

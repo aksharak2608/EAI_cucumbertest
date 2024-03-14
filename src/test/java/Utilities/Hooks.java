@@ -17,7 +17,7 @@ public class Hooks extends commons{
 	{
 	log.info("___________________ Before Hook__________________________");
 	//	System.out.println("___________________Before Hook_________________________");
-		//cofigreport();
+	//cofigreport();
 	}
 
 	@After
